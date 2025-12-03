@@ -2,8 +2,7 @@ name: Build and Deploy Jekyll
 
 on:
   push:
-    branches:
-      - main
+    branches: ["main"]
   workflow_dispatch:
 
 jobs:
@@ -18,19 +17,16 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.1
-
-      - name: Install dependencies
-        run: |
-          bundle install
+          bundler-cache: true
 
       - name: Build Jekyll site
         run: |
-          bundle exec jekyll build -d _site
+          bundle exec jekyll build -d ./_site
 
-      - name: Upload _site artifact
+      - name: Upload artifact for Pages
         uses: actions/upload-pages-artifact@v2
         with:
-          path: _site
+          path: ./_site
 
   deploy:
     needs: build
