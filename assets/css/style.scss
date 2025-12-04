@@ -66,6 +66,10 @@ img {
 a {
   text-decoration: none; /* убираем подчеркивание */
   transition: all 0.2s ease;
+
+  &:hover {
+    text-decoration: none;
+  }
 }
 
 /* --- Light theme --- */
@@ -79,16 +83,15 @@ a {
     --color-link-bg-hover: #FFCA28; /* backplate при ховере */
   }
 
-  a {
+  .page-link, h2 a, .social-buttons a {
     color: var(--color-link);
     background-color: var(--color-link-bg);
     padding: 0 4px;
     border-radius: 3px;
   }
 
-  a:hover {
-    color: var(--color-link-hover);
-    background-color: var(--color-link-bg-hover);
+  a:visited {
+    color: var(--color-link);
   }
 }
 
@@ -108,10 +111,5 @@ a {
     background-color: var(--color-link-bg);
     padding: 0 4px;
     border-radius: 3px;
-  }
-
-  a:hover {
-    color: var(--color-link-hover);
-    background-color: var(--color-link-bg-hover);
   }
 }
