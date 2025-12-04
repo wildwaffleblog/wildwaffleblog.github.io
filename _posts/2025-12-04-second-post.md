@@ -41,7 +41,12 @@ Description:
 A moment from my Halloween video essay “Scent” — about how smell can awaken something long forgotten.
 From my full video “Scent” — available on my channel.
 
-![Inktober](/img/5C68FDBF-06CC-4370-A2CD-E5F8DAB19E5A-0001.png)
+<!-- ![Inktober](/img/5C68FDBF-06CC-4370-A2CD-E5F8DAB19E5A-0001.png) -->
+
+<div class="image-row">
+  <img src="/img/5C68FDBF-06CC-4370-A2CD-E5F8DAB19E5A-0001.png" alt="Image 1">
+  <img src="/img/5C68FDBF-06CC-4370-A2CD-E5F8DAB19E5A-0001.png" alt="Image 2">
+</div>
 
 ⸻
 

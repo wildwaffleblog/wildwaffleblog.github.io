@@ -44,9 +44,36 @@ img {
   border-radius: 3px;
 }
 
+.image-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+
+.image-row img {
+  max-width: calc(33% - 10px);
+  height: auto;
+  flex-grow: 1;
+  object-fit: contain;
+  border-radius: 3px;
+}
+
+@media (max-width: 900px) {
+  .image-row img {
+    max-width: calc(50% - 10px);
+  }
+}
+
+@media (max-width: 600px) {
+  .image-row img {
+    max-width: 100%;
+  }
+}
+
 .about-photo {
-  width: 200px;
-  height: 200px;
+  width: 120px;
+  height: 120px;
   object-fit: cover;
   border-radius: 50%;
   display: block;
@@ -112,11 +139,10 @@ a {
   }
 
   .site-nav .page-link {
-  	color: var(--color-link);
-  	background-color: var(--color-link-bg);
+  	color: var(--color-text);
 
   	&:visited {
-  		color: var(--color-link);
+  		color: var(--color-text);
   	}
   }
 
@@ -154,11 +180,10 @@ a {
   }
 
   .site-nav .page-link {
-  	color: var(--color-link);
-  	background-color: var(--color-link-bg);
+  	color: var(--color-text);
 
   	&:visited {
-  		color: var(--color-link);
+  		color: var(--color-text);
   	}
   }
 
