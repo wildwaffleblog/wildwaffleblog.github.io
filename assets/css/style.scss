@@ -1,5 +1,45 @@
 ---
 ---
 
+/* Импорт темы minima */
 @import "minima";
-@import "custom";
+
+/* --- тут твои кастомные стили --- */
+
+/* Круглый аватар на главной */
+.avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Хедер с названием блога и описанием */
+.home-header {
+  text-align: center;
+  margin: 40px 0;
+}
+
+/* Дополнительные цвета, адаптивная тема */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #111;
+    color: #eee;
+  }
+
+  a {
+    color: #fdd835; /* желтый на темной теме */
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  body {
+    background-color: #fff;
+    color: #111;
+  }
+
+  a {
+    color: #fbbc04; /* желтый на светлой теме */
+  }
+}
