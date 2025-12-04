@@ -4,6 +4,9 @@ theme: minima
 minima:
   skin: auto
 
+author:
+  name: "by WAFFLE"
+
 # Навигация
 nav:
   - title: "About"

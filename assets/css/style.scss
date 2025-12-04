@@ -32,9 +32,11 @@ h1, h2, h3, h4, h5, h6, a, .site-header a {
 }
 
 /* --- Убираем верхнюю серую полоску в header --- */
-.site-header {
+.site-header, .page-content, .site-footer {
   border-top: none;
   background: none;
+  border-top: none;
+  border-bottom: none;
 }
 
 /* --- Скругляем все изображения --- */
