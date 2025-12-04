@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6, a, .site-header a {
 
 /* --- Скругляем все изображения --- */
 img {
-  border-radius: 8px;
+  border-radius: 3px;
 }
 
 .image-row {
@@ -119,52 +119,11 @@ a {
     --color-link-bg: #000;
   }
 
-  h1 a, h2 a, .social-buttons a .file-link, {
+  h1 a, h2 a, .social-buttons a, .file-link {
     color: var(--color-link);
     background-color: var(--color-link-bg);
     padding: 0 4px;
-    border-radius: 8px;
-  }
-
-  a:visited {
-    color: var(--color-link);
-  }
-
-  .site-title {
-  	color: var(--color-text);
-
-  	&:visited {
-  		color: var(--color-text);
-  	}
-  }
-
-  .site-nav .page-link {
-  	color: var(--color-text);
-
-  	&:visited {
-  		color: var(--color-text);
-  	}
-  }
-
-  .footer-col-wrapper {
-  	color: var(--color-text);
-  }
-}
-
-/* --- Dark theme --- */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --color-text: #fff;
-    --color-bg: #000;
-    --color-link: #000;
-    --color-link-bg: #FFCA28;
-  }
-
-  h1 a, h2 a, .social-buttons a, {
-    color: var(--color-link);
-    background-color: var(--color-link-bg);
-    padding: 0 4px;
-    border-radius: 8px;
+    border-radius: 3px;
   }
 
   a:visited {
@@ -192,7 +151,56 @@ a {
   }
 
   nav .site-nav {
-  	color: var(--color-bg);
+  	background-color: var(--color-bg);
+  }
+
+  .menu-icon {
+  	color: var(--color-text);
+  }
+}
+
+/* --- Dark theme --- */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-text: #fff;
+    --color-bg: #000;
+    --color-link: #000;
+    --color-link-bg: #FFCA28;
+  }
+
+  h1 a, h2 a, .social-buttons a, .file-link{
+    color: var(--color-link);
+    background-color: var(--color-link-bg);
+    padding: 0 4px;
+    border-radius: 3px;
+  }
+
+  a:visited {
+    color: var(--color-link);
+  }
+
+  .site-title {
+  	color: var(--color-text);
+
+  	&:visited {
+  		color: var(--color-text);
+  	}
+  }
+
+  .site-nav .page-link {
+  	color: var(--color-text);
+
+  	&:visited {
+  		color: var(--color-text);
+  	}
+  }
+
+  .footer-col-wrapper {
+  	color: var(--color-text);
+  }
+
+  nav .site-nav {
+  	background-color: var(--color-bg);
   }
 
   .menu-icon {
