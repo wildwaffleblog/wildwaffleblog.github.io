@@ -154,7 +154,7 @@ a {
   	background-color: var(--color-bg);
   }
 
-  .menu-icon svg {
+  span.menu-icon svg {
   	fill: var(--color-text);
   }
 }
@@ -201,9 +201,11 @@ a {
 
   .site-nav {
   	background-color: var(--color-bg);
+  	border-radius: 3px;
+
   }
 
-  .menu-icon svg {
+  span.menu-icon svg {
   	fill: var(--color-text);
   }
 }
