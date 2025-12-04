@@ -3,9 +3,46 @@
 
 @import "minima";
 
-/* --- кастомные стили --- */
+/* --- Подключаем кастомные шрифты --- */
+@font-face {
+  font-family: "Berlin-Bold";
+  src: url("/assets/fonts/BerlinType-Bold.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
 
-/* Главная страница */
+@font-face {
+  font-family: "Berlin-Regular";
+  src: url("/assets/fonts/BerlinType-Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* --- Общие стили --- */
+body {
+  font-family: "Berlin-Regular", sans-serif;
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  margin: 0;
+}
+
+/* Заголовки, ссылки в меню, кнопки */
+h1, h2, h3, h4, h5, h6, a, .site-header a {
+  font-family: "Berlin-Bold", sans-serif;
+}
+
+/* --- Убираем верхнюю серую полоску в header --- */
+.site-header {
+  border-top: none;
+  background: none;
+}
+
+/* --- Скругляем все изображения --- */
+img {
+  border-radius: 5px;
+}
+
+/* --- Главная страница --- */
 .avatar {
   width: 120px;
   height: 120px;
@@ -19,48 +56,62 @@
   margin: 40px 0;
 }
 
-/* Полный фид постов */
+/* --- Полный фид постов --- */
 .post {
   margin-bottom: 60px;
   line-height: 1.6;
 }
 
-/* --- Акцентный цвет и адаптивная тема --- */
-:root {
-  --color-accent: #FFCA28; /* основной акцент */
-  --color-bg: #fff;
-  --color-text: #000;
-  --color-link: var(--color-accent);
-  --color-link-bg: rgba(255,202,40,0.1); /* light backplate по умолчанию */
-  --color-link-bg-hover: rgba(255,202,40,0.3);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --color-accent: #FFCA28;
-    --color-bg: #000;
-    --color-text: #fff;
-    --color-link: var(--color-accent);
-    --color-link-bg: rgba(255,202,40,0.1);
-    --color-link-bg-hover: rgba(255,202,40,0.3);
-  }
-}
-
-body {
-  background-color: var(--color-bg);
-  color: var(--color-text);
-}
-
-/* Ссылки с фоном (backplate) */
+/* --- Ссылки с backplate --- */
 a {
-  color: var(--color-link);
-  background-color: var(--color-link-bg);
-  padding: 0 4px;
-  border-radius: 3px;
-  text-decoration: none;
+  text-decoration: none; /* убираем подчеркивание */
   transition: all 0.2s ease;
 }
 
-a:hover {
-  background-color: var(--color-link-bg-hover);
+/* --- Light theme --- */
+@media (prefers-color-scheme: light) {
+  :root {
+    --color-text: #000;
+    --color-bg: #fff;
+    --color-link: #FFCA28;   /* текст ссылки */
+    --color-link-bg: #000;   /* backplate */
+    --color-link-hover: #000; /* текст при ховере */
+    --color-link-bg-hover: #FFCA28; /* backplate при ховере */
+  }
+
+  a {
+    color: var(--color-link);
+    background-color: var(--color-link-bg);
+    padding: 0 4px;
+    border-radius: 3px;
+  }
+
+  a:hover {
+    color: var(--color-link-hover);
+    background-color: var(--color-link-bg-hover);
+  }
+}
+
+/* --- Dark theme --- */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-text: #fff;
+    --color-bg: #000;
+    --color-link: #000;      /* текст ссылки */
+    --color-link-bg: #FFCA28; /* backplate */
+    --color-link-hover: #FFCA28; /* текст при ховере */
+    --color-link-bg-hover: #000; /* backplate при ховере */
+  }
+
+  a {
+    color: var(--color-link);
+    background-color: var(--color-link-bg);
+    padding: 0 4px;
+    border-radius: 3px;
+  }
+
+  a:hover {
+    color: var(--color-link-hover);
+    background-color: var(--color-link-bg-hover);
+  }
 }
