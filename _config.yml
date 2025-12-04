@@ -13,7 +13,7 @@ nav:
     url: "/about/"
   - title: "Projects"
     url: "/projects/"
-    - title: "Resources"
+  - title: "Resources"
     url: "/resources/"
 
 social_links:
