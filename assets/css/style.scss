@@ -5,7 +5,7 @@
 
 /* --- кастомные стили --- */
 
-/* Круглый аватар на главной */
+/* Главная страница */
 .avatar {
   width: 120px;
   height: 120px;
@@ -14,37 +14,32 @@
   margin: 0 auto;
 }
 
-/* Хедер с названием и описанием */
 .home-header {
   text-align: center;
   margin: 40px 0;
 }
 
-/* Полный фид постов (контент постов) */
+/* Полный фид постов */
 .post {
   margin-bottom: 60px;
   line-height: 1.6;
 }
 
-/* Адаптивная тема */
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #111;
-    color: #eee;
-  }
+/* Акцентный цвет и адаптивная тема */
+:root {
+  --color-accent: #fdd835; /* желтый для light theme */
+}
 
-  a {
-    color: #fdd835; /* желтый на темной теме */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-accent: #fdd835; /* желтый для dark theme */
+    --color-bg: #111;
+    --color-text: #eee;
+    --color-link: var(--color-accent);
   }
 }
 
-@media (prefers-color-scheme: light) {
-  body {
-    background-color: #fff;
-    color: #111;
-  }
-
-  a {
-    color: #fbbc04; /* желтый на светлой теме */
-  }
+/* Обязательно применяем цвет ссылок */
+a {
+  color: var(--color-accent);
 }
