@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5, h6, a, .site-header a {
 
 /* --- Скругляем все изображения --- */
 img {
-  border-radius: 5px;
+  border-radius: 3px;
 }
 
 /* --- Главная страница --- */
@@ -77,13 +77,11 @@ a {
   :root {
     --color-text: #000;
     --color-bg: #fff;
-    --color-link: #FFCA28;   /* текст ссылки */
-    --color-link-bg: #000;   /* backplate */
-    --color-link-hover: #000; /* текст при ховере */
-    --color-link-bg-hover: #FFCA28; /* backplate при ховере */
+    --color-link: #FFCA28;
+    --color-link-bg: #000;
   }
 
-  .page-link, h2 a, .social-buttons a {
+  .page-link, h2 a, .social-buttons a, h1.post-title {
     color: var(--color-link);
     background-color: var(--color-link-bg);
     padding: 0 4px;
@@ -93,6 +91,10 @@ a {
   a:visited {
     color: var(--color-link);
   }
+
+  .site-title {
+  	color: var(--color-text);
+  }
 }
 
 /* --- Dark theme --- */
@@ -100,16 +102,22 @@ a {
   :root {
     --color-text: #fff;
     --color-bg: #000;
-    --color-link: #000;      /* текст ссылки */
-    --color-link-bg: #FFCA28; /* backplate */
-    --color-link-hover: #FFCA28; /* текст при ховере */
-    --color-link-bg-hover: #000; /* backplate при ховере */
+    --color-link: #000;
+    --color-link-bg: #FFCA28;
   }
 
-  a {
+  .page-link, h2 a, .social-buttons a, h1.post-title {
     color: var(--color-link);
     background-color: var(--color-link-bg);
     padding: 0 4px;
     border-radius: 3px;
+  }
+
+  a:visited {
+    color: var(--color-link);
+  }
+
+  .site-title {
+  	color: var(--color-text);
   }
 }
