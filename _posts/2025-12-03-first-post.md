@@ -3,4 +3,4 @@ layout: post
 title: "Welcome"
 ---
 
-Тестовый пост.
+Test post.
