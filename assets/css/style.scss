@@ -49,6 +49,7 @@ img {
   flex-wrap: wrap;
   gap: 10px;
   justify-content: center;
+  margin-bottom: 15px;
 }
 
 .image-row img {
@@ -154,7 +155,7 @@ a {
   	background-color: var(--color-bg);
   }
 
-  span.menu-icon svg {
+  .site-nav .menu-icon>svg {
   	fill: var(--color-text);
   }
 }
@@ -180,18 +181,18 @@ a {
   }
 
   .site-title {
-  	color: var(--color-text);
+  	color: var(--color-link-bg);
 
   	&:visited {
-  		color: var(--color-text);
+  		color: var(--color-link-bg);
   	}
   }
 
   .site-nav .page-link {
-  	color: var(--color-text);
+  	color: var(--color-link-bg);
 
   	&:visited {
-  		color: var(--color-text);
+  		color: var(--color-link-bg);
   	}
   }
 
@@ -202,10 +203,10 @@ a {
   .site-nav {
   	background-color: var(--color-bg);
   	border-radius: 3px;
-
+  	border: 1px solid var(--color-link-bg);
   }
 
-  span.menu-icon svg {
-  	fill: var(--color-text);
+  .site-nav .menu-icon>svg {
+  	fill: var(--color-link-bg);
   }
 }
