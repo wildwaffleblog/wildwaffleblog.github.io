@@ -4,6 +4,12 @@ theme: minima
 minima:
   skin: auto
 
+plugins:
+  - jekyll-feed
+
+feed:
+  path: feed.xml
+
 author:
   name: "Created by WAFFLE"
 
