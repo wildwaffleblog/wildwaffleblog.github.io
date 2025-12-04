@@ -9,15 +9,25 @@ author:
 
 # Навигация
 nav:
+  - title: ""
+    url: "/"
   - title: " About "
     url: "/about/"
   - title: " Projects "
     url: "/projects/"
 
-social_links:
-  - name: "YouTube"
-    url: "https://www.youtube.com/@wildwaffleofficial"
-  - name: "Telegram"
-    url: "https://t.me/wafflewithin"
+# social_links:
+#   - name: "YouTube"
+#     url: "https://www.youtube.com/@wildwaffleofficial"
+#   - name: "Telegram"
+#     url: "https://t.me/wafflewithin"
   # - name: "Podcast"
   #   url: "https://podcast-link"
+
+  social_links:
+    - title: Youtube
+      icon: youtube
+      url: "https://www.youtube.com/@wildwaffleofficial"
+    - title: Telegram
+      icon: telegram
+      url: "https://t.me/wafflewithin"

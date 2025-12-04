@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Это страница "About". Тут можно писать про себя.
+<img src="/assets/images/me.jpeg" alt="My photo" class="about-photo">
+
+Hi! I am WAFFLE. Here are some info about me.
