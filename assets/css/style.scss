@@ -115,7 +115,7 @@ img {
 
 /* --- Ссылки с backplate --- */
 a {
-  text-decoration: none; /* убираем подчеркивание */
+  text-decoration: none;
   transition: all 0.2s ease;
 
   &:hover {
@@ -157,6 +157,11 @@ a {
   	&:visited {
   		color: var(--color-text);
   	}
+
+    &:hover {
+      color: var(--color-text);
+      text-decoration: none;
+    }
   }
 
   .footer-col-wrapper {

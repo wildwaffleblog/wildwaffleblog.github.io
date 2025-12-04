@@ -12,7 +12,9 @@ Comics are a core part of my creative journey, where narrative meets visual expe
 
 ### Inktober 2025
 
-![Inktober 2025](/img/inkrober_2025_cover.png)
+<div class="image-row">
+  <img src="/img/inkrober_2025_cover.png" alt="Inktober 2025">
+</div>
 
 In 2025 I finally managed to complete Inktober – something I’d been circling for years without ever quite sticking the landing. This time I did it the way it should be done: consistently, deliberately, and in a single visual language. Every illustration was created using stippling, a slow, obsessive technique built on countless tiny dots – the kind of process that forces you into patience, discipline, and sometimes a bit of madness. Out of that rhythm came a surprisingly cohesive story: a quiet horror narrative unfolding around a ruined prom night at a fictional British boarding school. It wasn’t planned as a storyline at first, but the pieces kept pulling toward each other until they formed a proper sequence – part diary, part myth, part crime scene reconstruction. I collected all thirty-one drawings, along with the final text, into a small book so the project could exist as something more than just a feed of posts. You can download and read the book right here.
 
@@ -20,7 +22,9 @@ In 2025 I finally managed to complete Inktober – something I’d been circling
 
 ### Klubnikin
 
-![Klubnikin](/img/klubnikin_cover.png)
+<div class="image-row">
+  <img src="/img/klubnikin_cover.png" alt="Klubnikin">
+</div>
 
 “Klubnikin” is a short comic that takes you into the quiet rhythms of rural life in early 2000s Tambov district. Through the eyes of a child, it captures fleeting moments of curiosity, discovery, and the small but profound experiences that shape a childhood. The story is rooted in a real-life memory shared by writer Alexey Platon, whose perspective brings an authentic and intimate voice to the narrative. I had the privilege of translating this vision into illustrations, creating a visual world that reflects both the nostalgia and subtle melancholy of village life. The comic balances the everyday with the unexpected, offering glimpses into a past that feels both personal and universal. You can download and read the comic here in PDF or CBZ file format.
 
