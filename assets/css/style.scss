@@ -25,26 +25,42 @@
   line-height: 1.6;
 }
 
-/* Акцентный цвет и адаптивная тема */
+/* --- Акцентный цвет и адаптивная тема --- */
 :root {
-  --color-accent: #fdd835; /* желтый для light theme */
+  --color-accent: #FFCA28; /* основной акцент */
+  --color-bg: #fff;
+  --color-text: #000;
+  --color-link: var(--color-accent);
+  --color-link-bg: rgba(255,202,40,0.1); /* light backplate по умолчанию */
+  --color-link-bg-hover: rgba(255,202,40,0.3);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --color-accent: #fdd835; /* желтый для dark theme */
-    --color-bg: #111;
-    --color-text: #eee;
+    --color-accent: #FFCA28;
+    --color-bg: #000;
+    --color-text: #fff;
     --color-link: var(--color-accent);
+    --color-link-bg: rgba(255,202,40,0.1);
+    --color-link-bg-hover: rgba(255,202,40,0.3);
   }
 }
 
 body {
-  background-color: var(--color-bg, #fff); /* важно использовать var */
-  color: var(--color-text, #111);
+  background-color: var(--color-bg);
+  color: var(--color-text);
 }
 
-/* Обязательно применяем цвет ссылок */
+/* Ссылки с фоном (backplate) */
 a {
-  color: var(--color-accent);
+  color: var(--color-link);
+  background-color: var(--color-link-bg);
+  padding: 0 4px;
+  border-radius: 3px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+a:hover {
+  background-color: var(--color-link-bg-hover);
 }
