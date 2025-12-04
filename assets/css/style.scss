@@ -81,7 +81,7 @@ a {
     --color-link-bg: #000;
   }
 
-  .page-link, h2 a, .social-buttons a, h1.post-title {
+  h1, h2, .social-buttons a, {
     color: var(--color-link);
     background-color: var(--color-link-bg);
     padding: 0 4px;
@@ -94,6 +94,18 @@ a {
 
   .site-title {
   	color: var(--color-text);
+
+  	&:visited {
+  		color: var(--color-text);
+  	}
+  }
+
+  .site-nav .page-link {
+  	color: var(--color-link);
+
+  	&:visited {
+  		color: var(--color-link);
+  	}
   }
 }
 
@@ -106,7 +118,7 @@ a {
     --color-link-bg: #FFCA28;
   }
 
-  .page-link, h2 a, .social-buttons a, h1.post-title {
+  h1, h2, .social-buttons a, {
     color: var(--color-link);
     background-color: var(--color-link-bg);
     padding: 0 4px;
@@ -119,5 +131,17 @@ a {
 
   .site-title {
   	color: var(--color-text);
+
+  	&:visited {
+  		color: var(--color-text);
+  	}
+  }
+
+  .site-nav .page-link {
+  	color: var(--color-link);
+
+  	&:visited {
+  		color: var(--color-link);
+  	}
   }
 }
