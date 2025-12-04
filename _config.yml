@@ -9,12 +9,12 @@ author:
 
 # Навигация
 nav:
-  - title: ""
-    url: "/"
-  - title: "About"
+  - title: "Me"
     url: "/about/"
   - title: "Projects"
     url: "/projects/"
+    - title: "Resources"
+    url: "/resources/"
 
 social_links:
   - name: "YouTube"
