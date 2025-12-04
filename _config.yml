@@ -24,10 +24,10 @@ nav:
   # - name: "Podcast"
   #   url: "https://podcast-link"
 
-  social_links:
-    - title: Youtube
-      icon: youtube
-      url: "https://www.youtube.com/@wildwaffleofficial"
-    - title: Telegram
-      icon: telegram
-      url: "https://t.me/wafflewithin"
+social_links:
+  - title: Youtube
+    icon: youtube
+    url: "https://www.youtube.com/@wildwaffleofficial"
+  - title: Telegram
+    icon: telegram
+    url: "https://t.me/wafflewithin"
