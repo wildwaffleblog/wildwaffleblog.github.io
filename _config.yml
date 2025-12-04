@@ -1,13 +1,13 @@
 title: "WILD WAFFLE"
-description: "Creator blog"
+description: "Solo Creator | Filmmaker | Comic Artist | Game Developer"
 theme: minima
 minima:
   skin: auto
 
 author:
   name: "by WAFFLE"
+  email: "artyom.ognyov@gmail.com"
 
-# Навигация
 nav:
   - title: "Me"
     url: "/about/"
