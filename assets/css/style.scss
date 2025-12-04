@@ -150,12 +150,12 @@ a {
   	color: var(--color-text);
   }
 
-  nav .site-nav {
+  .site-nav {
   	background-color: var(--color-bg);
   }
 
-  .menu-icon {
-  	color: var(--color-text);
+  .menu-icon svg {
+  	fill: var(--color-text);
   }
 }
 
@@ -199,11 +199,11 @@ a {
   	color: var(--color-text);
   }
 
-  nav .site-nav {
+  .site-nav {
   	background-color: var(--color-bg);
   }
 
-  .menu-icon {
-  	color: var(--color-text);
+  .menu-icon svg {
+  	fill: var(--color-text);
   }
 }
