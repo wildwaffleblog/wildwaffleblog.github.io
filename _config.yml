@@ -1,2 +1,7 @@
 theme: minima
 title: My Blog
+description: "Creator blog"
+minima:
+  skin: auto
+sass:
+  style: compressed
