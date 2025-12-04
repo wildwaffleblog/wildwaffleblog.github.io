@@ -39,6 +39,11 @@
   }
 }
 
+body {
+  background-color: var(--color-bg, #fff); /* важно использовать var */
+  color: var(--color-text, #111);
+}
+
 /* Обязательно применяем цвет ссылок */
 a {
   color: var(--color-accent);
