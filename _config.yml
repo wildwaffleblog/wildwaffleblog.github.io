@@ -1,7 +1,5 @@
-theme: minima
-title: My Blog
+title: "WILD WAFFLE"
 description: "Creator blog"
+theme: minima
 minima:
   skin: auto
-sass:
-  style: compressed
