@@ -20,6 +20,8 @@ nav:
     url: "/projects/"
   - title: "Resources"
     url: "/resources/"
+  - title: "RSS"
+    url: "/feed.xml"
 
 social_links:
   - name: "YouTube"
