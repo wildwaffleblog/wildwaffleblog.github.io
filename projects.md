@@ -56,13 +56,13 @@ I build interactive experiences that explore mechanics and storytelling. My game
 
 The goal is to make players engage with subtle mechanics and visual texture, creating a tangible and immersive feel even in a simple digital environment. -->
 
-<!-- ## Podcast
+## Podcast
 
 Podcasts are my space for exploring ideas, sharing thoughts, and connecting with listeners in a more conversational format. While this section is still developing, it will feature episodes that focus on creativity, storytelling, and insights from my projects.
 
-Listeners can expect informal discussions, reflections on the creative process, and occasional guest appearances. The aim is to provide a behind-the-scenes perspective, showing how ideas evolve and how projects take shape. -->
+<!-- Listeners can expect informal discussions, reflections on the creative process, and occasional guest appearances. The aim is to provide a behind-the-scenes perspective, showing how ideas evolve and how projects take shape. -->
 
-
+<iframe height="450" width="100%" title="Media player" src="https://embed.podcasts.apple.com/us/podcast/woven-waffle/id1864634309?itscg=30200&amp;itsct=podcast_box_player&amp;ls=1&amp;mttnsubad=1864634309&amp;theme=auto" id="embedPlayer" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="border: 0px; border-radius: 12px; width: 100%; height: 450px; max-width: 660px;"></iframe>
 
 
 
