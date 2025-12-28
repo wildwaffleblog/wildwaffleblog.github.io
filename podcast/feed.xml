@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>WOVEN WAFFLE</title>
+    <link>https://wildwaffleblog.github.io/podcast</link>
+    <description>Давай расскажем эту историю вместе?</description>
+    <language>ru</language>
+    
+    <image>
+      <url>https://wildwaffleblog.github.io/podcast/images/ww_cover.png</url>
+      <title>WOVEN WAFFLE</title>
+      <link>https://wildwaffleblog.github.io/podcast</link>
+    </image>
+
+    <itunes:image href="https://wildwaffleblog.github.io/podcast/images/ww_full_page.png"/>
+
+    <itunes:category text="Society & Culture">
+      <itunes:category text="Personal Journals"/>
+    </itunes:category>
+    <itunes:category text="Society & Culture">
+      <itunes:category text="Philosophy"/>
+    </itunes:category>
+
+    <itunes:author>Waffle</itunes:author>
+    <itunes:subtitle>Давай расскажем эту историю вместе?</itunes:subtitle>
+    <itunes:summary>Подкаст об иммерсивных проулках, наблюдениях и размышлениях, созданный с любовью к деталям и атмосфере.</itunes:summary>
+    
+    <itunes:explicit>no</itunes:explicit>
+
+    <item>
+      <title>Лес</title>
+      <link>https://wildwaffleblog.github.io/podcast/episodes/Woven_Waffle_ep_1.m4a</link>
+      <description>Давай прогуляемся с тобой по лесу. Поговорим про то как мы воспринимаем людей. Почему то, что мы запоминаем, не всегда соответствует реальности. Подумаем, почему не всегда можно доверять своей памяти, как мы постоянно меняемся и почему боимся сойти с ума.</description>
+      <enclosure url="https://wildwaffleblog.github.io/podcast/episodes/Woven_Waffle_ep_1.m4a" length="21186697" type="audio/m4a"/>
+      <pubDate>Sat, 27 Dec 2025 21:00:00 GMT</pubDate>
+      <guid>https://wildwaffleblog.github.io/podcast/episodes/Woven_Waffle_ep_1.m4a</guid>
+
+      <itunes:image href="https://wildwaffleblog.github.io/podcast/images/ww_episode_artwork.png"/>
+
+      <itunes:keywords>прогулки, зимний лес, философия, размышления, аудиоистории, атмосферные записи</itunes:keywords>
+
+      <itunes:duration>00:08:45</itunes:duration>
+    </item>
+
+  </channel>
+</rss>
