@@ -12,12 +12,12 @@
 		<itunes:category text="Society &amp; Culture">
 			<itunes:category text="Personal Journals"/>
 		</itunes:category>
-    <itunes:image href="https://wildwaffleblog.github.io/podcast/images/ww_full_page.png"/>
+    <itunes:image href="https://wildwaffleblog.github.io/podcast/images/ww_cover.png"/>
 
 		<item>
 			<title><![CDATA[Лес]]></title>
 			<description><![CDATA[<p>Давай прогуляемся с тобой по лесу. Поговорим про то как мы воспринимаем людей. Почему то, что мы запоминаем, не всегда соответствует реальности. Подумаем, почему не всегда можно доверять своей памяти, как мы постоянно меняемся и почему боимся сойти с ума.</p>]]></description>
-			<link>https://wildwaffleblog.github.io/podcast/episodes/Woven_Waffle_ep_1.m4a</link>
+			<link>https://wildwaffleblog.github.io</link>
 			<guid isPermaLink="false">44e3d10e-125e-4e46-bc8e-a4b07506097c</guid>
 			<pubDate>Sat, 27 Dec 2025 21:00:00 GMT</pubDate>
 			<enclosure url="https://wildwaffleblog.github.io/podcast/episodes/Woven_Waffle_ep_1.m4a" length="21186697" type="audio/m4a"/>
