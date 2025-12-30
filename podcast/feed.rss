@@ -29,7 +29,7 @@
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 
-    <item>
+		<item>
 			<title><![CDATA[Эпизод 2. Гостиная]]></title>
 			<description><![CDATA[<p>Давай просто посидим в темноте у камина. Пооворим о том как ощущаем мир вокруг. Погрузимся в мысли о том что мы всеголишь гости во всех этих комнатах. И постараемся не обжечь язык горячим чаем.</p>]]></description>
 			<link>https://wildwaffleblog.github.io</link>
@@ -37,10 +37,25 @@
 			<pubDate>Sat, 28 Dec 2025 21:00:00 GMT</pubDate>
 			<enclosure url="https://wildwaffleblog.github.io/podcast/episodes/Woven_Waffle_ep_2.m4a" length="15821318" type="audio/m4a"/>
 			<itunes:summary>&lt;p&gt;Давай просто посидим в темноте у камина. Пооворим о том как ощущаем мир вокруг. Погрузимся в мысли о том что мы всеголишь гости во всех этих комнатах. И постараемся не обжечь язык горячим чаем.&lt;/p&gt;</itunes:summary>
-      <itunes:image href="https://wildwaffleblog.github.io/podcast/images/ww_episode_artwork.png"/>
+			<itunes:image href="https://wildwaffleblog.github.io/podcast/images/ww_episode_artwork.png"/>
 			<itunes:duration>00:06:32</itunes:duration>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+
+		<item>
+			<title><![CDATA[Эпизод 3. Кухня]]></title>
+			<description><![CDATA[<p>Завтрак – начало дня. Пропустим ли мы его, сделаем не таким каких хотелось бы или вообще всё пойдёт не по плану? Порассуждаем о том, как научиться принимать несовершенства и не привязываться к "идеальному".</p>]]></description>
+			<link>https://wildwaffleblog.github.io</link>
+			<guid isPermaLink="false">d73db9fc-bdfa-4d75-861c-88fa2a899e34</guid>
+			<pubDate>Sat, 30 Dec 2025 17:00:00 GMT</pubDate>
+			<enclosure url="https://wildwaffleblog.github.io/podcast/episodes/Woven_Waffle_ep_3.m4a" length="12715453" type="audio/m4a"/>
+			<itunes:summary>&lt;p&gt;Завтрак – начало дня. Пропустим ли мы его, сделаем не таким каких хотелось бы или вообще всё пойдёт не по плану? Порассуждаем о том, как научиться принимать несовершенства и не привязываться к "идеальному".&lt;/p&gt;</itunes:summary>
+			<itunes:image href="https://wildwaffleblog.github.io/podcast/images/ww_episode_artwork.png"/>
+			<itunes:duration>00:05:15</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 	</channel>
