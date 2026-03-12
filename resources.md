@@ -10,7 +10,7 @@ permalink: /resources/
 
 A small pack of LUTs designed for practical use in real edits. Each LUT has a clear role. They're not overloaded or fragile. Just drop them in and move on with your cut.
 
-BACKLOG - A gentle Apple Log to Rec.709 conversion that respects the original image.
+BACKLOG - A gentle Apple Log → Rec.709 conversion that respects the original image.
 
 DAILY - A confident everyday look with warm cinematic tones, deeper shadows and enough contrast. It doesn't scream "graded" but says you have a vision.
 
