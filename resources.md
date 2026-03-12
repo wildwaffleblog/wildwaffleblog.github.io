@@ -20,10 +20,10 @@ RETRO - Pure monochrome with attitude. Strong blacks and clean highlights. When 
 
 STORYPOINT - Cooler tones, controlled contrast and a subtle cinematic distance. Quietly shapes the image into something more deliberate than plain Rec.709. Perfect for something narrative.
 
-<div><img src="/img/LUT_pack_road.jpeg" alt="LUT usage example 1"></div>
+<img class="image-single" src="/img/LUT_pack_road.jpeg" alt="LUT usage example 1">
 
-<div><img src="/img/LUT_pack_building.jpeg" alt="LUT usage example 2"></div>
+<img class="image-single" src="/img/LUT_pack_building.jpeg" alt="LUT usage example 2"></div>
 
-<div><img src="/img/LUT_pack_face.jpeg" alt="LUT usage example 3"></div>
+<img class="image-single" src="/img/LUT_pack_face.jpeg" alt="LUT usage example 3">
 
 [Download LUTs](/documents/luts/WILD_WAFFLE_LUT_PACK.zip){: .file-link }
