@@ -6,9 +6,7 @@ permalink: /resources/
 
 ### LUT pack
 
-<div class="image-row">
-  <img src="/img/LUT_pack_cover.png" alt="LUT usage cover">
-</div>
+<img src="/img/LUT_pack_cover.jpeg" alt="LUT usage cover">
 
 A small pack of LUTs designed for practical use in real edits. Each LUT has a clear role. They're not overloaded or fragile. Just drop them in and move on with your cut.
 
@@ -22,10 +20,8 @@ RETRO - Pure monochrome with attitude. Strong blacks and clean highlights. When 
 
 STORYPOINT - Cooler tones, controlled contrast and a subtle cinematic distance. Quietly shapes the image into something more deliberate than plain Rec.709. Perfect for something narrative.
 
-<div class="image-row">
-  <img src="/img/LUT_pack_road.png" alt="LUT usage example 1">
-  <img src="/img/LUT_pack_face.png" alt="LUT usage example 1">
-  <img src="/img/LUT_pack_building.png" alt="LUT usage example 1">
-</div>
+<img src="/img/LUT_pack_road.jpeg" alt="LUT usage example 1">
+<img src="/img/LUT_pack_building.jpeg" alt="LUT usage example 2">
+<img src="/img/LUT_pack_face.jpeg" alt="LUT usage example 3">
 
 [Download LUTs](/documents/luts/WILD_WAFFLE_LUT_PACK.zip){: .file-link }
