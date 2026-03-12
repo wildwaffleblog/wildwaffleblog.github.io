@@ -6,7 +6,7 @@ permalink: /resources/
 
 ### LUT pack
 
-<img src="/img/LUT_pack_cover.jpeg" alt="LUT usage cover">
+<img class="image-single" src="/img/LUT_pack_cover.jpeg" alt="LUT usage cover">
 
 A small pack of LUTs designed for practical use in real edits. Each LUT has a clear role. They're not overloaded or fragile. Just drop them in and move on with your cut.
 
