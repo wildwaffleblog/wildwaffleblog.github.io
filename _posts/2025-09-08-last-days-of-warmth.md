@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LAST DAYS OF WARMTH"
+title: "Last days of warmth"
 ---
 
 I came back from vacation and decided to shoot something short, just to test new approaches to filming.

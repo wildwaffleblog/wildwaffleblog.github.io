@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOU CAN BE ANYTHING YOU WANT"
+title: "You can be anything you want"
 ---
 
 <iframe class="youtube" src="https://www.youtube.com/embed/tlm9JVXbpC0" allowfullscreen></iframe>
