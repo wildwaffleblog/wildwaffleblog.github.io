@@ -46,10 +46,11 @@ In 2025 I finally managed to complete Inktober – something I’d been circling
 My videos range from short films to experimental cinematic videos and vlogs, but they always focused on storytelling and visual texture. You can explore most of my work on my YouTube channel, where I share highlights of my experiments with framing, pacing, and mood. The video section is about capturing moments and ideas, experimenting with timing, lighting, and aesthetic grain, and sharing the creative journey.
 
 <iframe class="youtube" src="https://www.youtube.com/embed/P0_pPoH94xs" allowfullscreen></iframe> <!-- SCENT -->
-<iframe class="youtube" src="https://www.youtube.com/embed/jDQlFdz3FQ8" allowfullscreen></iframe> <!-- FAST -->
+<iframe class="youtube" src="https://www.youtube.com/embed/E1Ubze3C9-U" allowfullscreen></iframe> <!-- THE FINAL PLATFORM -->
 <iframe class="youtube" src="https://www.youtube.com/embed/5JCh5nbK8mk" allowfullscreen></iframe> <!-- LAST WATERLINE -->
 
 
+https://youtu.be/E1Ubze3C9-U?si=wtdAbfCL7pbnyvWA
 <!-- ## Game Development
 
 I build interactive experiences that explore mechanics and storytelling. My game project **Increment** focuses on [short description, e.g., minimalist strategy with narrative elements].  
