@@ -22,7 +22,7 @@ STORYPOINT - Cooler tones, controlled contrast and a subtle cinematic distance. 
 
 <img class="image-single" src="/img/LUT_pack_road.jpeg" alt="LUT usage example 1">
 
-<img class="image-single" src="/img/LUT_pack_building.jpeg" alt="LUT usage example 2"></div>
+<img class="image-single" src="/img/LUT_pack_building.jpeg" alt="LUT usage example 2">
 
 <img class="image-single" src="/img/LUT_pack_face.jpeg" alt="LUT usage example 3">
 
