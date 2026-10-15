@@ -49,8 +49,6 @@ My videos range from short films to experimental cinematic videos and vlogs, but
 <iframe class="youtube" src="https://www.youtube.com/embed/E1Ubze3C9-U" allowfullscreen></iframe> <!-- THE FINAL PLATFORM -->
 <iframe class="youtube" src="https://www.youtube.com/embed/5JCh5nbK8mk" allowfullscreen></iframe> <!-- LAST WATERLINE -->
 
-
-https://youtu.be/E1Ubze3C9-U?si=wtdAbfCL7pbnyvWA
 <!-- ## Game Development
 
 I build interactive experiences that explore mechanics and storytelling. My game project **Increment** focuses on [short description, e.g., minimalist strategy with narrative elements].  
@@ -64,10 +62,6 @@ Podcasts are my space for exploring ideas, sharing thoughts, and connecting with
 <!-- Listeners can expect informal discussions, reflections on the creative process, and occasional guest appearances. The aim is to provide a behind-the-scenes perspective, showing how ideas evolve and how projects take shape. -->
 
 <iframe height="450" width="100%" title="Media player" src="https://embed.podcasts.apple.com/us/podcast/woven-waffle/id1864634309?itscg=30200&amp;itsct=podcast_box_player&amp;ls=1&amp;mttnsubad=1864634309&amp;theme=auto" id="embedPlayer" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="border: 0px; border-radius: 12px; width: 100%; height: 450px; max-width: 660px;"></iframe>
-
-
-
-
 
 <!-- <div class="image-row">
   <img src="/img/klubnikin_09.png" alt="Image 1">
