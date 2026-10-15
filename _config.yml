@@ -1,4 +1,4 @@
-title: "WILD WAFFLE"
+title: "Wild Waffle"
 description: "Solo Creator"
 theme: minima
 minima:
@@ -11,7 +11,7 @@ feed:
   path: feed.xml
 
 author:
-  name: "Created by WAFFLE"
+  name: "Created by Waffle"
 
 nav:
   - title: "Me"

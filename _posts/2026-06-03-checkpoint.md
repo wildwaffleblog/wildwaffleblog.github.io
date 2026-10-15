@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "checkpoint."
+title: "Checkpoint"
 ---
 
 A small life update.
