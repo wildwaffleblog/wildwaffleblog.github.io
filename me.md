@@ -4,7 +4,7 @@ title: Me
 permalink: /me/
 ---
 
-<img src="/assets/images/me.png" alt="My photo" class="about-photo">
+<img src="/assets/images/me.jpeg" alt="My photo" class="about-photo">
 
 Hi! I'm Artöm, a solo creator from Russia working across comics, video, and game development. I love experimenting with storytelling and aesthetics, blending different media to create experiences that feel tangible and alive. My work often has a textured, "grainy" look inspired by film, adding depth and a sense of authenticity.
 
