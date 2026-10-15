@@ -1,6 +1,9 @@
 ---
 ---
 
+$font-scale: 1.5;
+$base-font-size: 16px * $font-scale;
+
 @import "minima";
 
 /* --- Подключаем кастомные шрифты --- */
