@@ -120,6 +120,28 @@ img {
   line-height: 1.6;
 }
 
+/* --- Спойлеры (details) --- */
+details {
+  background-color: rgba(128, 128, 128, 0.1); /* фолбэк */
+  background-color: color-mix(in srgb, var(--color-text) 10%, transparent);
+  border-radius: 3px;
+  padding: 12px 16px;
+  margin-bottom: 40px;
+
+  summary {
+    cursor: pointer;
+    font-family: "CormorantGaramond-Bold", serif;
+  }
+
+  &[open] summary {
+    margin-bottom: 12px;
+  }
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
 /* --- Ссылки с backplate --- */
 a {
   text-decoration: none;
