@@ -7,11 +7,15 @@ Since late autumn 2024, I've been running a YouTube channel. I started posting s
 
 Not every video turned out to be meaningful. I often repeated the same thoughts and didn't always achieve the goals I set for myself. But the process itself allowed me to grow. That's why, in August, I filmed my last Waterline. I'm ready to keep reflecting without these videos, ready to keep growing as a creator, and I've reserved YouTube now for content that feels far more valuable.
 
-<iframe class="youtube" src="https://www.youtube.com/embed/WkK_bkInik4" allowfullscreen></iframe> <!-- WATERLINE -->
-<iframe class="youtube" src="https://www.youtube.com/embed/PCxKo-YOCgU" allowfullscreen></iframe> <!-- WATERLINE -->
-<iframe class="youtube" src="https://www.youtube.com/embed/LOx5qcJyEx8" allowfullscreen></iframe> <!-- WATERLINE -->
-<iframe class="youtube" src="https://www.youtube.com/embed/XLsEUkpIGOo" allowfullscreen></iframe> <!-- WATERLINE -->
-<iframe class="youtube" src="https://www.youtube.com/embed/5S4GMDzxTFw" allowfullscreen></iframe> <!-- WATERLINE -->
-<iframe class="youtube" src="https://www.youtube.com/embed/M1NKKjWF6T8" allowfullscreen></iframe> <!-- WATERLINE -->
-<iframe class="youtube" src="https://www.youtube.com/embed/MKqmyRY7Ksw" allowfullscreen></iframe> <!-- WATERLINE -->
-<iframe class="youtube" src="https://www.youtube.com/embed/1DnewBmXWHg" allowfullscreen></iframe> <!-- WATERLINE -->
+<!--
+<iframe class="youtube" src="https://www.youtube.com/embed/WkK_bkInik4" allowfullscreen></iframe>
+<iframe class="youtube" src="https://www.youtube.com/embed/PCxKo-YOCgU" allowfullscreen></iframe>
+<iframe class="youtube" src="https://www.youtube.com/embed/LOx5qcJyEx8" allowfullscreen></iframe>
+<iframe class="youtube" src="https://www.youtube.com/embed/XLsEUkpIGOo" allowfullscreen></iframe>
+<iframe class="youtube" src="https://www.youtube.com/embed/5S4GMDzxTFw" allowfullscreen></iframe>
+<iframe class="youtube" src="https://www.youtube.com/embed/M1NKKjWF6T8" allowfullscreen></iframe>
+<iframe class="youtube" src="https://www.youtube.com/embed/MKqmyRY7Ksw" allowfullscreen></iframe>
+<iframe class="youtube" src="https://www.youtube.com/embed/1DnewBmXWHg" allowfullscreen></iframe>
+ -->
+
+<iframe class="youtube" src="https://www.youtube.com/embed?listType=playlist&list=PLsMAeCseWq2G6MZ-zHqXNLFW8l49OfYaI" title="Waterlines" loading="lazy" allowfullscreen></iframe>
