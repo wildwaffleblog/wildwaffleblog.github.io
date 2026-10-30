@@ -10,7 +10,7 @@ Here you’ll find a curated selection of my creative work across comics, video,
 
 Comics are a core part of my creative journey, where narrative meets visual experimentation. I work primarly in collaboration with Alexey Platon, combining storytelling with detailed, textured visuals that give a tangible, "grainy" feel to every page. Each work is an exploration of atmosphere, character, and narrative rhythm, with an emphasis on the process and collaboration.
 
-### Inktober 2025
+### Inktober
 
 <div class="image-row">
   <img src="/img/inktober_2025_cover.png" alt="Inktober 2025">
