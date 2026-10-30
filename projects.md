@@ -13,12 +13,14 @@ Comics are a core part of my creative journey, where narrative meets visual expe
 ### Inktober 2025
 
 <div class="image-row">
-  <img src="/img/inkrober_2025_cover.png" alt="Inktober 2025">
+  <img src="/img/inktober_2025_cover.png" alt="Inktober 2025">
+  <img src="/img/inktober_2026_cover.jpg" alt="Inktober 2026">
 </div>
 
-In 2025 I finally managed to complete Inktober – something I’d been circling for years without ever quite sticking the landing. This time I did it the way it should be done: consistently, deliberately, and in a single visual language. Every illustration was created using stippling, a slow, obsessive technique built on countless tiny dots – the kind of process that forces you into patience, discipline, and sometimes a bit of madness. Out of that rhythm came a surprisingly cohesive story: a quiet horror narrative unfolding around a ruined prom night at a fictional British boarding school. It wasn’t planned as a storyline at first, but the pieces kept pulling toward each other until they formed a proper sequence – part diary, part myth, part crime scene reconstruction. I collected all thirty-one drawings, along with the final text, into a small book so the project could exist as something more than just a feed of posts. You can download and read the book right here.
+In 2025 I finally managed to complete Inktober – something I'd been circling for years without ever quite sticking the landing. In 2026 I did it again, and this time I wanted to see whether the method would hold up with a different story. Both years follow the same rules: thirty-one drawings, one for every day, all made in stippling, a slow, obsessive technique built on countless tiny dots – the kind of process that forces you into patience, discipline, and sometimes a bit of madness. And both years the prompts became a quiet horror narrative, part diary, part myth, part case file. Inktober 2025 unfolded around a ruined prom night at a fictional British boarding school. It wasn't planned as a storyline at first, but the pieces kept pulling toward each other until they formed a proper sequence. Inktober 2026, Under the Altar, was planned from the first day: the diary of a novice who arrives at a remote island convent and slowly learns what the place is built on. For each year I collected all thirty-one drawings, along with the final text, into a small book so the projects could exist as something more than a feed of posts (the 2026 book is bilingual, English and Russian). You can download and read both books right here.
 
-[Download PDF](/documents/comics/inktober_2025_by_wild_waffle.pdf){: .file-link }
+[Download PDF 2025](/documents/comics/inktober_2025_by_wild_waffle.pdf){: .file-link }
+[Download PDF 2026](/documents/comics/inktober_2026_by_wild_waffle.pdf){: .file-link }
 
 ### Klubnikin
 
